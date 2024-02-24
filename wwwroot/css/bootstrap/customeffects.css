@@ -1,0 +1,24 @@
+﻿body {
+}
+
+.breathing-animation {
+    font-size: 2em;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    transition: transform 1s ease-in-out;
+}
+
+@keyframes breathing {
+    0%, 100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+.breathing-animation:hover {
+    animation: breathing 2s ease-in-out infinite;
+}
