@@ -1,0 +1,24 @@
+﻿body {
+}
+
+svg#sparkle-effect {
+    position: relative;
+    animation: sparkle 2.5s infinite;
+}
+
+@keyframes sparkle {
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        transform: scale(1.5);
+    }
+}
+
