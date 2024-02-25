@@ -22,3 +22,13 @@
 .breathing-animation:hover {
     animation: breathing 2s ease-in-out infinite;
 }
+
+.image-wrapper {
+    position: relative;
+    display: inline-block;
+    width: 300px; /* Adjust based on your image size */
+    height: 200px; /* Adjust based on your image size */
+}
+
+
+
