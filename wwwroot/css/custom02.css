@@ -1,0 +1,10 @@
+﻿body {
+}
+
+
+.photo-text-more {
+    display: flex;
+    justify-content: space-between; /* Adjusts space between images */
+    float: right;
+    margin-left: 10px;
+}
