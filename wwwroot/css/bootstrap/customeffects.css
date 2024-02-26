@@ -31,4 +31,11 @@
 }
 
 
+.ul-check {
+    display: flex;
+    justify-content: space-between; /* Optional: Aligns items with space between them */
+    gap: 60px; /* Optional: Adds space between items */
+}
+
+
 
