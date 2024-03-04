@@ -1,1 +1,2 @@
-A project where i cloned the valantis pawnshop website and added my own style to it.
+Проект, в котором я клонировал сайт ломбарда valantis и добавил к нему свой собственный стиль.
+https://juvelirnyj-lombard.ru
